@@ -1,0 +1,10 @@
+/* --- CSS VARIABLES --- */
+:root {
+  --background-color: #ececec;
+  --background-color-light: #ffffff;
+  --background-color-hover: #ececec;
+  --theme-color: #1976D2;
+  --theme-color-light: #80bfff;
+  --theme-color-xlight: #eef6fd;
+  --text-color: rgba(0, 0, 0, 0.87);
+}

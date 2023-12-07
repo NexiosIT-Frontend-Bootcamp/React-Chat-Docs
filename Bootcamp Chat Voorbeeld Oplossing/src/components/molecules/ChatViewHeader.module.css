@@ -1,0 +1,10 @@
+.chatViewHeaderContainer {
+  width: 100%;
+  height: 60px;
+}
+
+.chatDetails {
+  flex-grow: 1;
+  text-align: left;
+  padding-left: 10px;
+}

@@ -1,0 +1,10 @@
+@import "/src/styles/Vars.css";
+
+.chatListItemContainer {
+	height: 80px;
+}
+
+.chatListItemContainer:hover {
+	background-color: var(--background-color-hover);
+	cursor: pointer;
+}

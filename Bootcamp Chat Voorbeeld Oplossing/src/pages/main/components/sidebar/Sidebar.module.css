@@ -1,0 +1,11 @@
+@import "/src/styles/Vars.css";
+
+.sidebarContainer {
+  width: 400px;
+  max-width: 30%;
+  min-width: 300px;
+  min-height: 100vh;
+  max-height: 100vh;
+  background-color: var(--background-color-light);
+  border-right: 1px solid lightgray;
+}

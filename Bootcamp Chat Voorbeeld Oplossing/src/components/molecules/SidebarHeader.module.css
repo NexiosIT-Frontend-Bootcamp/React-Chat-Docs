@@ -1,0 +1,6 @@
+@import "/src/styles/Vars.css";
+
+.sidebarHeaderContainer {
+  height: 60px;
+  background-color: var(--background-color);
+}
